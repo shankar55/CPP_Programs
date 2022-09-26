@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655827348 source:e:\programs\codeblocks programs\c++ programs\linked_list\detectandremoveloop\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

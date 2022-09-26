@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655741967 source:e:\programs\codeblocks programs\c++ programs\linked_list\addtwonumbers\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

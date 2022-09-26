@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655731550 source:e:\programs\codeblocks programs\c++ programs\linked_list\ispalindrome\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
